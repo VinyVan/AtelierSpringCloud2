@@ -17,3 +17,6 @@
 
 - Test Customer Rest API:
 ![customer test](captures/customer_test.PNG)
+
+
+## 2- Inventory Service
