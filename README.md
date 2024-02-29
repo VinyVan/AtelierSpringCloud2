@@ -36,3 +36,15 @@
 
 - Test Product Rest API:
   ![product test](captures/product_test.PNG)
+## 3 -Creation GateWay
+![creation gateway](captures/creation_gateway.PNG)
+
+## 4- Gateway Static Configuration 
+ - config static
+![config static gateway](captures/gateway_config_static.PNG)
+ - Test de l'interface Customer de la gateway:
+  ![test gateway customers](captures/gateway_static_test_1.PNG)
+ - Test de l'interface Product de la gateway:
+![test gateway products](captures/gateway_static_test_2.PNG)
+
+## 
