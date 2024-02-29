@@ -20,3 +20,19 @@
 
 
 ## 2- Inventory Service
+
+- Creation de inventory-service
+  ![customer-service](captures/customer-service1.PNG)
+
+- Product Class:
+  ![customer class](captures/product_class.PNG)
+
+- Product Repo:
+  ![product repo](captures/product_repo.PNG)
+
+- Instation Products
+
+![products bean](captures/instantiation_products.PNG)
+
+- Test Product Rest API:
+  ![product test](captures/product_test.PNG)
